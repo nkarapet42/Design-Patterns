@@ -1,5 +1,5 @@
-#ifndef ICast_HPP
-# define ICast_HPP
+#ifndef ICAST_HPP
+# define ICAST_HPP
 
 #include <string>
 
